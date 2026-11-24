@@ -4,11 +4,11 @@
 Writes the entry text (no trailing newline, nothing else) to
 /output/entry.txt (or $MAKEFUN_OUTPUT_DIR/entry.txt).
 
-Reads like a real fortune cookie, says something true about a developer's day, and turns it in the last sentence.
+Reads like a real fortune cookie — a prophecy, not a joke — says something true about a developer's week, and turns it in the last sentence.
 """
 import os
 
-ENTRY = 'You will fix the bug at 3 a.m. It was a typo. It was always a typo.'
+ENTRY = 'A bug you have chased for days will surrender tonight. It was a typo. It was always a typo.'
 
 
 def main() -> None:

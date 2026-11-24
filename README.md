@@ -7,11 +7,11 @@
 Entry for the [make.fun](https://make.fun) bounty
 [Fortune Cookie Wisdom for Developers](https://make.fun/c/u-gentle-koala-60-fortune-cookie-wisdom-for-developers-025ccf44).
 
-Reads like a real fortune cookie, says something true about a developer's day, and turns it in the last sentence.
+Reads like a real fortune cookie — a prophecy, not a joke — says something true about a developer's week, and turns it in the last sentence.
 
 `main.py` (Python 3, standard library only) writes the entry to `/output/entry.txt`:
 
-> You will fix the bug at 3 a.m. It was a typo. It was always a typo.
+> A bug you have chased for days will surrender tonight. It was a typo. It was always a typo.
 
 Run it locally with:
 
