@@ -3,7 +3,7 @@
 import os
 
 
-ENTRY = "Your code will compile on the third try \u2014 but only after you explain the bug out loud to a rubber duck."
+ENTRY = "The bug you seek is in the code you swore was fine; the fix is in the log you swore you checked."
 
 
 def main():
